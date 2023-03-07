@@ -1,0 +1,15 @@
+ID	         C10
+Summary	         Не меняется язык в окне авторизации
+Pre conditions	 Oткрыть сацйт exe.ua
+Steps	         1. Нажать кнопку "Вход" 
+                 2. в окне авторизации нажать на "Укр".
+Post conditions	
+Expected result	 На странице изменился язык на украинский
+Actual result	 Язык страницы не изменился
+Severity	 Cosmetic
+Preority	 High
+Type	         Localization
+Assigned	 Николай Иванченко
+State	         Deferred
+Date of creation 19,02,2023
+Environment	 Windows 10, Chrome 110.0.5481.104 (Официальная сборка)

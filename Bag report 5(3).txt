@@ -1,0 +1,17 @@
+ID	           C13
+Summary	           В корзину невозможно добавить больше 99  товаров
+Pre conditions	   Открыть сайт exe.ua
+Steps	           1.Выбрать категорию товара, 
+                   2. Отсортировать по оценкам покупателей, 
+                   3. Добавить товар в корзину, 
+                   4. Изменить кол-во товара на 999
+Post conditions	
+Expected result	   В корзине 999 товаров
+Actual result	   Hевозможно добавить в корзину больше 99 товаров
+Severity	   High
+Preority	   High
+Type	           Functional
+Assigned	
+State	           Open
+Date of creation   19,02,2023
+Environment	   Windows 10, Chrome 110.0.5481.104 (Официальная сборка)
